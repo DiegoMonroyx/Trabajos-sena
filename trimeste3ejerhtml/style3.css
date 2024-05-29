@@ -1,0 +1,25 @@
+.container1{
+    padding-left: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color:rgb(88, 117, 117);
+}
+h2{
+    margin-top: 30px;
+}
+ul{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+li{
+    margin-top: 10px;
+}
+body{
+  background-color: black;
+}
+.elhr{
+    margin-right: 5%;
+}

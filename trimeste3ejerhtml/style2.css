@@ -1,0 +1,32 @@
+.container1{
+    background-color: rgb(233, 207, 154);
+    margin-right:45% ;
+    padding-bottom: 20px;
+
+}
+.container2{
+  padding-left: 70px;
+  margin-top: -20px;
+
+  
+}
+h1{
+    padding-left: 70px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    font-size: 35px;
+
+}
+ul{
+    
+    margin-left: -40px;
+    font-size: 18px;
+}
+li{
+  list-style-type:none;
+  margin-top: 10px;
+}
+body{
+    padding-left: 33%;
+    background-color: black;
+}
